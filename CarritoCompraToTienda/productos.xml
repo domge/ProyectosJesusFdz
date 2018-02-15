@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<productos>
+  <producto>
+    <codProducto>1000</codProducto>
+    <Nombre>TV Samsung LED 40'</Nombre>
+    <Precio>600€</Precio>
+    <Existencias>100</Existencias>
+    <Imagen>https://media.aws.alkosto.com/media/catalog/product/cache/6/image/69ace863370f34bdf190e4e164b6e123/l/e/led5000__46_ww__front.jpg</Imagen>
+  </producto>
+  <producto>
+    <codProducto>1001</codProducto>
+    <Nombre>DVD Samsung</Nombre>
+    <Precio>125€</Precio>
+    <Existencias>100</Existencias>
+    <Imagen>http://www.220-electronics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung_dvd-c350_regionfreedvdplayer_1.jpg</Imagen>
+  </producto>
+  <producto>
+    <codProducto>1002</codProducto>
+    <Nombre>Piano Yamaha Clavinova</Nombre>
+    <Precio>2105€</Precio>
+    <Existencias>100</Existencias>
+    <Imagen>https://www.thomann.de/pics/bdb/411382/11967137_800.jpg</Imagen>
+  </producto>
+  <producto>
+    <codProducto>1003</codProducto>
+    <Nombre>Sofá Sylvanian Families</Nombre>
+    <Precio>495€</Precio>
+    <Existencias>100</Existencias>
+    <Imagen>http://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201608/04/00144838105011____1__1200x1200.jpg</Imagen>
+  </producto>
+  <producto>
+    <codProducto>1004</codProducto>
+    <Nombre>Lavavajillas Balay 3VS504BA con función pausa + carga</Nombre>
+    <Precio>339,15€</Precio>
+    <Existencias>100</Existencias>
+    <Imagen>http://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201609/01/00104710455264____1__1200x1200.jpg</Imagen>
+  </producto>
+  <producto>
+    <codProducto>1005</codProducto>
+    <Nombre>Cámara réflex digital Canon EOS 700D +EF 18-55 IS</Nombre>
+    <Precio>499€</Precio>
+    <Existencias>100</Existencias>
+    <Imagen>http://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201612/20/00110114120560____5__1200x1200.jpg</Imagen>
+  </producto>
+  <producto>
+    <codProducto>1006</codProducto>
+    <Nombre>Renault Clío</Nombre>
+    <Precio>10000€</Precio>
+    <Existencias>3</Existencias>
+    <Imagen>http://m1.es.f6m.fr/gama-renault/renault-vehiculos-turismos/gama-clio/clio/boites-fermees/atted37ff261d544865a5065839d5be8910/bf-galeria.jpg</Imagen>
+  </producto>
+</productos>
