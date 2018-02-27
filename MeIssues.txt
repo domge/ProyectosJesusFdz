@@ -1,4 +1,0 @@
--Tendría que encargarme del tema de la actualización de los informes excel
-
--Comprobar el tema del id de las "Valijas de Febrero" comprobando las tablas, vistas etc...
-que se especifican en el Word "INFORMES SEGUIMIENTO_SERVICIOS_CAU"
